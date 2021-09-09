@@ -1,7 +1,6 @@
-•	👋 Oi sou @IHCordeiro
+
 •	👀 Tenho interesse no Estágio em programação WEB 
 •	🌱 Atualmente estou aprendendo HTML / CSS / JavaScript 
-•	💞️ Procuro colaborar em uma empresa de tecnologia
 •	📫 Como entrar em contato comigo? Pode ser pelo celular (31) 993700599
 
 ## Ola, Sou  o Isaac Cordeiro
